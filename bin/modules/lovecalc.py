@@ -12,10 +12,10 @@ def lovecalc(user1, user2):
 
     # Custom lovecalc results
     love_results = {
-        frozenset({481998330549764106, 1185973996055965799}): 100,  # HellSan - Bonnie
-        frozenset({415974992308862977, 481998330549764106}): 100,   # HellSan - G_ab
-        frozenset({415974992308862977, 1185973996055965799}): 0,    # G_ab - HellSan
-        frozenset({1170434322453504093, 1186799421636231208}): 100, # Crystal - Praxy
+        frozenset({481998330549764106, 1185973996055965799}): 100,
+        frozenset({415974992308862977, 481998330549764106}): 100,
+        frozenset({415974992308862977, 1185973996055965799}): 0,
+        frozenset({1170434322453504093, 1186799421636231208}): 100,
         
         # frozenset({user_id1, user_id2}): love_amount, # Template to add a custom lovecalc result
     }
