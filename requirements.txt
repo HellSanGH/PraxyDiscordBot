@@ -1,0 +1,11 @@
+discord.py
+pynacl
+openai==1.2.0
+pydantic
+moviepy
+pytube3
+discord-py-interactions
+python-dotenv
+aiomysql
+aiosqlite
+sys
